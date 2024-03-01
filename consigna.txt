@@ -1,0 +1,10 @@
+📝Breve
+Su desafío es construir este perfil de enlaces sociales y lograr que se parezca lo más posible al diseño.
+
+Puedes utilizar cualquier herramienta que desees para ayudarte a completar el desafío. Entonces, si tienes algo que te gustaría practicar, no dudes en intentarlo.
+
+Sus usuarios deberían poder:
+Vea los estados de desplazamiento y enfoque de todos los elementos interactivos de la página.
+Descargue el código de inicio y revise el archivo README.md. Esto proporcionará más detalles sobre el proyecto. El archivo style-guide.md es donde encontrará colores, fuentes, etc.
+
+¿Quieres apoyo en el desafío? Únase a nuestra comunidad y haga preguntas en el canal de ayuda.

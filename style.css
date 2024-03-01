@@ -1,0 +1,74 @@
+
+
+*{
+    font-family: monospace;    
+    
+}
+body{
+    background: linear-gradient(-70deg, rgb(8, 148, 148), rgb(122, 120, 120));
+    
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    color: rgb(61, 207, 81);
+    font-size: 15px;
+    margin-top: -10px;
+
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    margin-top: -10px;
+
+}
+div{
+    background: linear-gradient(70deg, rgb(41, 105, 105), rgb(37, 35, 35));
+    display: flexbox;
+    height: 100%;
+    width: 400px;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    top: 0;
+    border-radius: 10%;
+
+}
+img{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-left: auto;
+    margin-top: 0;
+    margin-right: auto;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+    
+}
+ul{
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    text-align: center;
+}
+
+li{
+    margin-top: 10px;
+    font-size: 25px;    
+}
+a:hover, :link, :visited, :active{
+    border-color: brown;
+    border-radius: 100px;
+    color: rgb(61, 207, 81);
+    list-style-type: none;
+    text-decoration: none;
+    
+}
